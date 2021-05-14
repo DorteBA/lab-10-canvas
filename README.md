@@ -1,2 +1,2 @@
 Lab 10
-This is about canvas.
+It's about drawing on the canvas!
